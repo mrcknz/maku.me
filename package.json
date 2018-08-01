@@ -1,0 +1,22 @@
+{
+  "name": "mrcknz.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcknz/maku.git"
+  },
+  "author": "Marco Kunz (marco@maku.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcknz/maku.me/issues"
+  },
+  "homepage": "https://github.com/mrcknz/maku.me#readme"
+}
